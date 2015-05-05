@@ -1,0 +1,16 @@
+{
+  "name": "cloudManager",
+  "version": "0.1.0",
+  "description": "Web Based Cloud manager for AWS CloudFormation templates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Kelley",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1.26",
+    "express": "^4.12.3",
+    "otter-routes": "^1.0.5"
+  }
+}
